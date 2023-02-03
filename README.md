@@ -3,7 +3,7 @@
 ### Integrates the default counter app with Apple WatchOS using [Platform Channels](https://docs.flutter.dev/development/platform-integration/platform-channels) via the [MethodChannel class](https://api.flutter.dev/flutter/services/MethodChannel-class.html).
 
 <p align="center">
-<a href="[media/flutter_watch.mov](https://youtu.be/zrEz-HGwGL4)"><img style="border: 2px solid #000; margin-top: 20px; margin-bottom: 20px; border-radius: 6px; width: 50%; @media only screen and (max-width: 600px) { width: 90%;}" src="media/flutter_watch.png"/>
+<a href="https://youtu.be/zrEz-HGwGL4"><img style="border: 2px solid #000; margin-top: 20px; margin-bottom: 20px; border-radius: 6px; width: 50%; @media only screen and (max-width: 600px) { width: 90%;}" src="media/flutter_watch.png"/>
 </p></a>
 
 <p align="center">
