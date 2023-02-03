@@ -16,14 +16,11 @@
 
 Set up the communication channel.
 
-```dart
-final MethodChannel _channel = const MethodChannel('flutter_watch');
-```
 
 Handle interactions from Apple Watch button taps.
 
 ```dart
-class \_CounterViewState extends State<CounterView> {
+class _CounterViewState extends State<CounterView> {
 @override
 void initState() {
 super.initState();
